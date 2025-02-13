@@ -1,10 +1,12 @@
 ---
-title: "Demo Post 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
+title: "ElysiumCraft"
+description: "Il progetto è online da circa una settimana, sono successe molte cose e molte ancora accadranno"
+pubDate: "Feb 12 2025"
 heroImage: "/post_img.webp"
-tags: ["tokio"]
+tags: ["minecraft", "roleplay"]
 ---
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer
