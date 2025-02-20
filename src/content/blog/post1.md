@@ -33,6 +33,6 @@ Non esiste una sola risposta, ma ci sono alcuni principi fondamentali che le sof
   
 - **Rilasciare giochi solo quando sono pronti**: Pubblicare un titolo incompleto o pieno di bug danneggia la reputazione dello studio e mina la fiducia dei giocatori. Valve è famosa per il suo approccio "esce quando è pronto", preferendo ritardare un’uscita piuttosto che compromettere la qualità.
   
-Hho grandi speranze per il futuro: le recenti difficoltà di aziende come **Ubisoft** potrebbero essere il segnale di una necessaria rivoluzione nel settore videoludico. Forse è arrivato il momento per chi ci mette i soldi di affidarsi nuovamente agli sviluppatori che sann davver cosa significa creare giochi amati dai giocatori, piuttosto che semplici prodotti da spremere fino all’ultimo centesimo.
+Ho grandi speranze per il futuro: le recenti difficoltà di aziende come **Ubisoft** potrebbero essere il segnale di una necessaria rivoluzione nel settore videoludico. Forse è arrivato il momento per chi ci mette i soldi di affidarsi nuovamente agli sviluppatori che sann davver cosa significa creare giochi amati dai giocatori, piuttosto che semplici prodotti da spremere fino all’ultimo centesimo.
 
 P.S. L'unica cosa che non dovrebbero imparare dalla Valve è il loro non saper contare dopo il 2
