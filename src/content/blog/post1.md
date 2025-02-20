@@ -1,9 +1,9 @@
 ---
-title: "Valve has made Team Fortress 2 open source?"
-description: "What does this mean for the market?"
+title: "Valve ha reso Team Fortress 2 open source?"
+description: "Cosa significa per il mercato videoludico?"
 pubDate: "Feb 20 2025"
 heroImage: "/TF2.png"
-tags: [ "videogames", "modding", "open source", "TF2" ]
+tags: [ "videogiochi", "modding", "open source", "TF2" ]
 badge: "New"
 ---
 
