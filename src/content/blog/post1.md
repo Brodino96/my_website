@@ -4,6 +4,7 @@ description: "What does this mean for the market?"
 pubDate: "Feb 20 2025"
 heroImage: "/TF2.png"
 tags: [ "videogames", "modding", "open source", "TF2" ]
+badge: "New"
 ---
 
 
